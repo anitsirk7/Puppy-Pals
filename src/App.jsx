@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { puppyList } from './data';
-
+import './App.css'
 
 
 function App() {
